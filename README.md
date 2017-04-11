@@ -1,4 +1,4 @@
 # reagent-todo
 
-#lein cljsbuild auto
+lein cljsbuild auto
 
